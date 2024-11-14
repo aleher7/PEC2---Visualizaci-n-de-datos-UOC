@@ -10,3 +10,10 @@ En primer lugar, la representación de Hyperbolic Tree (árbol hiperbólico), re
   - hyperbolic_tree.js --> Archivo de JavaScript que genera el árbol hiperbólico
   - yotube_hierachy.json --> Archivo JSON que contiene en formato JSON el excel Global_Youtube_Statics.csv (Fuente: https://www.kaggle.com/code/zabihullah18/global-countries-eda/input?select=Military+Expenditure.csv) *Nota: se ha añadido una nueva columna, la cual actuará como nodo central, teniendo el mismo registro para cada fila, Youtube*
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Bibliografía
+Sobretodo, dentro de la creación de la técncia Hyperbolic Tree en JavaScript, se han utilizado varias fuentes para llevar a cabo la representación:
+- https://gist.github.com/ramiroaznar/e13ddc92535ad54978e2311973ba8c94
+- https://gist.github.com/aaizemberg/6153101?permalink_comment_id=4512331
+- https://gist.github.com/jcmmutad/8ff82729321db116e99ebb64a7c77686
