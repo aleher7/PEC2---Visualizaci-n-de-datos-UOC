@@ -13,8 +13,9 @@ En primer lugar, la representación de Hyperbolic Tree (árbol hiperbólico), re
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # cartogram
-La representación hecha a través de la técnica Cartogram dibuja el estado de la democracia en todo el mundo, basado en el Índice de Democracia compilado por la Unidad de Inteligencia de The Economist. El índice ofrece una visión matizada de las prácticas democráticas a nivel global, combinando diversos factores para producir una puntuación que va de 0 (menos democrático) a 10 (más democrático). (Fuente dataset: https://www.kaggle.com/datasets/shreyasur965/democracy-index).
-
+La representación hecha a través de la técnica Cartogram dibuja el estado de la democracia en todo el mundo, basado en el Índice de Democracia compilado por la Unidad de Inteligencia de The Economist. El índice ofrece una visión matizada de las prácticas democráticas a nivel global, combinando diversos factores para producir una puntuación que va de 0 (menos democrático) a 10 (más democrático). (Fuente del dataset: https://www.kaggle.com/datasets/shreyasur965/democracy-index).
+- cartogram.txt -> dispone del enalce al repositorio de Datawrapper
+- data-cbc3H -> se trata de un dataset modificado a partir del dataset original para la creación del Cartogram
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
