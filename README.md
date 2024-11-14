@@ -14,8 +14,16 @@ En primer lugar, la representación de Hyperbolic Tree (árbol hiperbólico), re
 
 # cartogram
 La representación hecha a través de la técnica Cartogram dibuja el estado de la democracia en todo el mundo, basado en el Índice de Democracia compilado por la Unidad de Inteligencia de The Economist. El índice ofrece una visión matizada de las prácticas democráticas a nivel global, combinando diversos factores para producir una puntuación que va de 0 (menos democrático) a 10 (más democrático). (Fuente del dataset: https://www.kaggle.com/datasets/shreyasur965/democracy-index).
-- cartogram.txt -> dispone del enalce al repositorio de Datawrapper
-- data-cbc3H -> se trata de un dataset modificado a partir del dataset original para la creación del Cartogram
+- cartogram.txt -> Archivo TXT que dispone del enalce al repositorio de Datawrapper, donde se encuentra la representación
+- data-cbc3H.csv -> Archivo CSV que se trata de el dataset modificado a partir del dataset original para la creación del Cartogram.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# waffle-chart
+La representación hecha a través de la técncia Waffle Chart dibuja las valoraciones de reseñas hacia los parques de Disneyland que se enceuntran en el mundo (exactamente 3 parques distribuidos en Hong Kong, Paris y California), pudiendo ver que parques son considerados mejores o peores por los visitantes. (Fuente: https://www.kaggle.com/datasets/arushchillar/disneyland-reviews)
+- waffle_chart.txt -> Archivo TXT que dispone del enlace al repositorio de Fluorish, donde se encuentra la representación
+- Review_Counts_by_Branch_and_Rating.csv -> Archivo CSV que se trata del dataset modificado a partir del dataset original para la creación del Waffle Chart, donde se recopila el recuento de las valoraciones por puntuación.
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
